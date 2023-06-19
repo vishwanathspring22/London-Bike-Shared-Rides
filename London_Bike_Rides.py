@@ -180,8 +180,6 @@ bike.head()
 bike.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 
 
-# In[ ]:
-
 
 
 
